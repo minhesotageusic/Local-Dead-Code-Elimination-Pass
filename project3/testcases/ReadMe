@@ -1,0 +1,8 @@
+This subdirectory contains 6 testcases for your dead code elimination pass.
+
+These test cases are just there for you to get started. You may use the provided sol-codegen compiler to generate ILOC code
+for your own test cases in our sample language of project 2. The files test1 through test6 are written in that simple language, and compiled to test1.iloc through test6.iloc using the sol-codegen compiler provided here.
+
+The grading will use additional test cases.
+
+Uli 04/20/2021
